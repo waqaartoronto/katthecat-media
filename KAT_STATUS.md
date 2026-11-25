@@ -138,3 +138,4 @@ Stats lean: "tag the..." hooks beat "POV:"; texting and sweet-relationship topic
 ## Run log
 - 2026-11-23: moved autopilot to this GitHub task (old chat task had no repo/project access).
 - 2026-11-23 (Mon): SCRIPT step: KAT_STATUS.md seeded; 14 skits written to Pending review (Nov 30 19:30 → Dec 7 12:00).
+- 2026-11-24 (Tue): PRODUCTION blocked: api.elevenlabs.io refused by the cloud environment's network policy (HTTP 403 at proxy). No videos made, nothing scheduled. Builder for the 14 pending skits saved as engine/build_dec1.py (ready to run once ElevenLabs is allowed). Pending review unchanged.
