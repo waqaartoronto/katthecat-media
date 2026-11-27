@@ -3,7 +3,7 @@ import json, os, subprocess, urllib.request
 
 os.chdir(os.path.dirname(os.path.abspath(__file__)))
 os.makedirs("kat2/audio", exist_ok=True)
-KEY = open(os.path.expanduser("~/.kat/key")).read().strip()
+KEY = (os.environ.get("ELEVENLABS_API_KEY") or open(os.path.expanduser("~/.kat/key")).read()).strip()
 VOICE = {"kat": "g4hzXZZhL5vwjYdqQDDM", "bf": "bIHbv24MWmeRgasZH58o"}
 KAT = {"color": "#ffffff", "inner": "#ffb7c5"}
 BF = {"male": True, "color": "#f3e2c4", "inner": "#d6bf98", "brow_col": "#8a6a40", "eye_style": "sleepy",

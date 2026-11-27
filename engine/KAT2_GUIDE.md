@@ -45,3 +45,6 @@ Each shot: `dur`, `set`, `bg`, optional `fg`, `cam`, `actors`, `props`, `props_b
 ## Checks before scheduling
 Grab 4 frames per video (ffmpeg) and look: faces not covered, caption readable, nothing drawn over faces, props make sense
 (e.g. an "empty" jar is empty). Fix and re-render rather than post a broken video.
+
+## Production preflight
+Run `python3 engine/preflight.py` before any voice work. The key comes from env `ELEVENLABS_API_KEY` (set once in the cloud environment's settings), else `~/.kat/key`. On PREFLIGHT FAIL: stop, push-notify the printed line, change nothing.
