@@ -127,6 +127,71 @@ Format per shot: camera · who: "line" · states/props. Kat x≈330, him x≈780
 - 3 kitchen counter bg #ffe3bf: both hold mug, cookie_tray · sticker *cocoa date*
 - 4 night, fg sofa: Kat head on him, zzz both, him "[whispers] and you're my everything." · sticker *my moon* · sfx purr
 
+Batch 2 written Thu Nov 26 (7 skits, Dec 7 19:30 → Dec 10 19:30). Trend: shock-statement hooks (skit 15, 19).
+
+### 15. Mon Dec 7 19:30 · `we_need_to_talk` · him guilty
+- Caption: when she says "we need to talk" 😳
+- Set: xmas, bg #e4d5f6, Kat santa hat. Props: star (broken ornament stand-in, him holds behind back).
+- 1 Kat close, eyes flat: "[serious] babe. we need to talk." · sticker *gulp* · sfx gulp
+- 2 crash zoom him, sweat_big, eyes dart, cam shake: "[nervous] i broke your ornament! i'm sorry!" · sticker *confession* · sfx sting
+- 3 Kat mouth o, freeze: "[softly] ...i was gonna ask what you want for christmas."
+- 4 him close, sweat, look away: "[nervous laugh] ...forget i said anything." · sticker *too late*
+- 5 wide: Kat hugs him, hearts: "[giggles] you're getting glue." · him happy blush · sticker ta-da! · sfx tada
+
+### 16. Tue Dec 8 12:00 · `double_text` · Kat guilty
+- Caption: tag the one who double texts 📱
+- Set: bedroom, bg #f9d9e6. Props: phone (Kat holds), phone (him, last shots).
+- 1 Kat close, phone, bounce: "[excited] hi. hi. hiii. are you there?" · stickers *sent x27* · sfx ding x3
+- 2 him walks in (x 1200→780), towel-fresh, eyes flat: "[sighs] babe... i was in the shower for five minutes."
+- 3 crash zoom Kat, freeze, sweat, mouth wobble · sticker *busted* · sfx sting
+- 4 Kat eyes dart, sweat_big: "[nervous laugh] ...i missed you?" · cam shake
+- 5 wide: him hold phone, smirk: "[softly] i replied to all of them." Kat blush big, hearts · sticker *i love you x27* · sfx ding
+
+### 17. Tue Dec 8 19:30 · `first_snow` · him guilty
+- Caption: tag the one who throws the first snowball ❄️
+- Set: snowy, snow true, bg #cad8f3, both santa hats. Floor, Kat size 900, him 1050.
+- 1 wide: Kat happy, look up: "[softly] the first snow... so peaceful." · sticker *peaceful* 
+- 2 Kat hit, sticker *poof*, sfx boing · Kat eyes squint, shake
+- 3 crash zoom Kat, dramatic: "[gasps] who did that?!" · sticker NOOOO · sfx sting
+- 4 him close, look away, whistle face, sweat_big: "[nervous laugh] ...the wind?" · sticker *guilty*
+- 5 wide: Kat x 330→560 tackle-hug, both hearts: him "[giggles] okay, okay, it was me." · sticker *snow war* · sfx purr
+
+### 18. Wed Dec 9 12:00 · `same_order` · Kat guilty
+- Caption: tag the one who orders the same thing every time ☕
+- Set: kitchen, bg #ffe3bf, fg counter. Props: mug x2 (on counter), cookie.
+- 1 Kat bounce, confident: "[confident] today i'm trying something new." · sticker *new me*
+- 2 him smirk, eyes flat: "[suspicious] okay... what are you having?"
+- 3 Kat close, eyes dart, sweat: "[whispers] ...peppermint cocoa." · sticker *again* · sfx gulp
+- 4 crash zoom him, giggling · sticker *47th time* · sfx sting
+- 5 wide: him slides mug x 780→560: "[softly] already made it." Kat blush big, hold mug, hearts · sfx ding
+
+### 19. Wed Dec 9 19:30 · `im_fine` · him guilty
+- Caption: when she says "i'm fine" 🙂
+- Set: xmas lights_on 0, bg #d5e9cf. Props: gift x2 by tree; Kat hold star (her favourite ornament, last shot).
+- 1 wide: tree fully decorated; Kat eyes flat, smile: "[sweetly] wow. you decorated without me. i'm fine." · sticker *she's not fine*
+- 2 crash zoom him, sweat_big, cam shake · sticker *danger* · sfx sting
+- 3 him close, eyes dart: "[nervous] i... wanted to surprise you?" · sfx gulp
+- 4 Kat close, eyes teary, ears droop: "[sniffles] it was our thing." 
+- 5 wide: him hands her the star, lights_on 0.5: "[softly] i saved the best one for you." Kat happy hearts sparkles · sticker *our thing* · sfx tada
+
+### 20. Thu Dec 10 12:00 · `every_story` · Kat guilty
+- Caption: tag the one who posts you on every story 📸
+- Set: night, bg #cad8f3, fg sofa. Props: phone (Kat holds), zzz_cloud over him shot 1.
+- 1 him asleep, zzz · Kat close, phone, giggles: "[whispers] so cute... posting it." · sticker *posted* · sfx pop
+- 2 him wakes, hold phone, eyes flat: "[sleepy] why do i have 400 messages?"
+- 3 crash zoom Kat, freeze, sweat, mouth wobble · sticker *evidence* · sfx sting
+- 4 Kat eyes dart, sweat_big: "[nervous laugh] ...you're just very popular?" · cam shake
+- 5 wide: him smirk, hold phone: "[giggles] reposted. 'that's my girl.'" Kat blush big, hearts · sticker *couple goals* · sfx ding
+
+### 21. Thu Dec 10 19:30 · `too_many_lights` · him guilty
+- Caption: when he puts up 1000 christmas lights 💡
+- Set: xmas lights_on 0.3, bg #f7cddc, him santa hat → night set last 2 shots (lights out).
+- 1 him bounce, proud: "[excited] one thousand lights, babe! watch this!" · sticker *1000* · sfx whoosh
+- 2 lights flash on, then cut to night set, dark · sticker *pop* · sfx sting
+- 3 Kat close, eyes flat: "[sighs] ...you blew the power." 
+- 4 crash zoom him, sweat_big, eyes dart, cam shake: "[nervous laugh] ...romantic, right?" · sticker *guilty*
+- 5 wide night, moon: Kat x 330→520 head on him, both hearts: "[softly] okay. it kind of is." · sticker *moonlight date* · sfx purr
+
 ## Scheduled
 Booked through Mon Nov 30, 12:00. Next empty slot: Mon Nov 30, 19:30.
 ## Used topics (never repeat)
@@ -135,7 +200,9 @@ Unused old topics (ok to reuse as couple skits): every story, double texts, warm
 ## Notes
 Stats lean: "tag the..." hooks beat "POV:"; texting and sweet-relationship topics win. Halloween saved for Oct 2027.
 - Nov 16-23: top = "types for 10 minutes" (1826), "bad at goodbyes" (1534), "i missed you" (1502); bottom = "bubble wrap", "50 tabs", "POV: cat when sick". Lean: texting + sweet payoffs, "tag the one who…".
+- Nov 19-26: top IG = "types for 10 min" (1827), "bad at goodbyes" (1537), "i missed you" (1503), "always on 1%" (1317); bottom = "mom finds hiding spot" (143), "cat when sick" (135). TikTok all low (53-545). Lean: texting + sweet payoffs, keep "tag the one who…".
 ## Run log
 - 2026-11-23: moved autopilot to this GitHub task (old chat task had no repo/project access).
 - 2026-11-23 (Mon): SCRIPT step: KAT_STATUS.md seeded; 14 skits written to Pending review (Nov 30 19:30 → Dec 7 12:00).
 - 2026-11-24 (Tue): PRODUCTION blocked: api.elevenlabs.io refused by the cloud environment's network policy (HTTP 403 at proxy). No videos made, nothing scheduled. Builder for the 14 pending skits saved as engine/build_dec1.py (ready to run once ElevenLabs is allowed). Pending review unchanged.
+- 2026-11-26 (Thu): SCRIPT step: 7 more skits (15-21, Dec 7 19:30 → Dec 10 19:30) added to Pending review. ElevenLabs still blocked at the proxy (403), so production will fail again until the environment allows api.elevenlabs.io. Booked through Nov 30 12:00.
