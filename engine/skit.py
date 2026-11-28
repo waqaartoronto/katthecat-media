@@ -244,20 +244,20 @@ def render(sk, out):
             L.sticker(frame, stk, t)
         d = ImageDraw.Draw(frame)
         if sk.get("caption"):
-            hf = ImageFont.truetype(L.FONT, 74)
+            hf = ImageFont.truetype(L.FONT, 90)
             words, lines, cur = sk["caption"].split(" "), [], ""
             for w_ in words:
                 test = (cur + " " + w_).strip()
-                if d.textlength(test, font=hf) > W - 200:
+                if d.textlength(test, font=hf) > W - 160:
                     lines.append(cur); cur = w_
                 else:
                     cur = test
             lines.append(cur)
             bw = max(d.textlength(l_, font=hf) for l_ in lines)
-            d.rounded_rectangle([(W - bw) / 2 - 40, 166, (W + bw) / 2 + 40, 190 + len(lines) * 86 + 14], 36,
+            d.rounded_rectangle([(W - bw) / 2 - 40, 352, (W + bw) / 2 + 40, 376 + len(lines) * 104 + 14], 36,
                                 fill=(255, 255, 255, 240), outline=INK, width=6)
             for k_, l_ in enumerate(lines):
-                d.text(((W - d.textlength(l_, font=hf)) / 2, 190 + k_ * 86), l_, font=hf, fill=INK)
+                d.text(((W - d.textlength(l_, font=hf)) / 2, 376 + k_ * 104), l_, font=hf, fill=INK)
         for ov in sk.get("overlays", []):
             if ov["kind"] == "loading" and ov["t0"] <= t <= ov["t1"]:
                 pct = L.kf(ov["keys"], t, 0)
