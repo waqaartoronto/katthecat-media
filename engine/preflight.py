@@ -10,6 +10,8 @@ if len(key) < 20:
 try:
     urllib.request.urlopen(urllib.request.Request("https://api.elevenlabs.io/v1/user", headers={"xi-api-key": key}), timeout=30)
 except urllib.error.HTTPError as e:
+    if e.code == 401 and b"missing_permissions" in e.read():
+        print("PREFLIGHT OK (key valid; lacks user_read, TTS still works)"); sys.exit(0)
     sys.exit(f"PREFLIGHT FAIL: ElevenLabs rejected the key (HTTP {e.code}); the key is wrong, expired or out of credits.")
 except Exception as e:
     sys.exit(f"PREFLIGHT FAIL: cannot reach api.elevenlabs.io ({e}); allow it in the environment's Network access.")
